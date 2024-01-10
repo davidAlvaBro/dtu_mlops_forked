@@ -161,3 +161,4 @@ repo_data.csv
 # Do not have data in git 
 data/
 **/wandb/
+datasets/
